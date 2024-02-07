@@ -1,0 +1,38 @@
+table,th,td{
+    border: 3px solid white;
+    background-color: burlywood;
+    }
+    
+body{
+    color: aliceblue;
+    }
+
+
+body{
+    background-image:url("https://i.scdn.co/image/ab676161000051748f6c84fe52baae5ffd551cb4");
+background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#name{
+    color:rgb(82, 82, 60);
+}
+#nameHEAD{
+    font-size: 75px;
+    font-style: italic;
+    color: bisque;
+}
+
+#subHEAD{
+font-style: italic;
+
+}
+
+form{
+    background-color: rgb(136, 87, 54); width: 350px; padding: 10px;
+    text-align: center;
+}
+#first-par{
+    background-color: darkred;
+}
